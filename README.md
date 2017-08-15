@@ -1,6 +1,13 @@
 # vue-admin
 
-> A Vue.js project
+> 一个简单的vue2.0+iview做的后台管理系统模板
+
+1. vue.js
+2. [iview](https://www.iviewui.com/)
+3. vue-router
+4. axios
+5. vue-quill-editor
+
 
 ## Build Setup
 
